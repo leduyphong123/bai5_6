@@ -1,0 +1,19 @@
+h3 {
+    padding: 10px 0;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+body {
+    width: 400px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cs {
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
